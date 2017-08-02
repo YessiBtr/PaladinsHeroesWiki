@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:background="@drawable/bg4"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ScrollView android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@color/bg_trans"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nama"
+                android:textColor="@color/colorAccent"
+                android:textSize="16pt"
+                android:textAlignment="center"
+                android:id="@+id/txtjudulNama"/>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/cardViewChampions"
+                android:layout_marginTop="10dp"
+                app:cardBackgroundColor="@android:color/transparent"
+                app:cardPreventCornerOverlap="false"
+                app:cardCornerRadius="0dp"
+                android:elevation="0dp"
+                >
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imageChampions"
+                    android:src="@drawable/icon"/>
+
+            </android.support.v7.widget.CardView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="txtRole"
+                android:textColor="@color/white"
+                android:id="@+id/txtRole"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="txtSkill1"
+                android:textColor="@color/white"
+                android:id="@+id/txtSkill1"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="txtSkill2"
+                android:textColor="@color/white"
+                android:id="@+id/txtSkill2"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="txtSkill3"
+                android:textColor="@color/white"
+                android:id="@+id/txtSkill3"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="txtSkill4"
+                android:textColor="@color/white"
+                android:id="@+id/txtSkill4"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="txtUltimate"
+                android:textColor="@color/white"
+                android:id="@+id/txtUltimate"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="txtStory"
+                android:textColor="@color/white"
+                android:id="@+id/txtStory"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="txtSummary"
+                android:textColor="@color/white"
+                android:id="@+id/txtSummary"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

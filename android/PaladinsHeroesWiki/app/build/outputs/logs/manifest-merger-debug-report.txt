@@ -1,0 +1,340 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\ASUS\.android\build-cache\8a418e79a13ee07dff6ba5844418318a967e219a\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:7:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\ASUS\.android\build-cache\8a418e79a13ee07dff6ba5844418318a967e219a\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:9:5-67:19
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ASUS\.android\build-cache\8dac64637b0b9436c8f0152ed33165e529d0e0fe\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\ASUS\.android\build-cache\e5a276e2a8c7e10bb506af6124c237dc2ca00bf9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ASUS\.android\build-cache\cd6b4e671f83ab34c2d0f888e2b2c3e7e8e539af\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ASUS\.android\build-cache\0b89888718969d6cec73fa8ec5779c1b6b0e8708\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ASUS\.android\build-cache\cbf195d9c56023759f461e07e1c98be6ba896955\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ASUS\.android\build-cache\9eedc68b1339e1af772b890f79a7fd63cb31b913\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.android\build-cache\c200ef93479d532e18255b3c075232c93cf0eddc\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\ASUS\.android\build-cache\8cf8e3467033899f4427aa32e369d77d7ffe2b25\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\ASUS\.android\build-cache\c2e0c9d2807e8d086e7d614819417ea67748f862\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ASUS\.android\build-cache\31abb0128f4abe977e7e440bc890dd36290e1ce0\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-core:9.4.0] C:\Users\ASUS\.android\build-cache\f54008a9688513f68742aa07b1f0f15cc327e5c2\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\ASUS\.android\build-cache\8a418e79a13ee07dff6ba5844418318a967e219a\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\ASUS\.android\build-cache\538908c218baec4efdf1ab915b62ac8adfe76036\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\ASUS\.android\build-cache\0ad2dd63afd7c3f8e62f1de26087b05f15bfcc44\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\ASUS\.android\build-cache\416567c775a37bc7292c6442a498f3d6c9a3ec86\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ASUS\.android\build-cache\c8c5ac4dd8d9ae616b7faef37a7c64af0da3dc4f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ASUS\.android\build-cache\51aef8e8dbb39e12f03c4ca797bd6ea1b17e1483\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ASUS\.android\build-cache\92cd61c4fe15d0f11d7b2b555a23965682d6abde\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ASUS\.android\build-cache\abfe97306b3cb581e8af45e6e6bcef022c66fcdd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ASUS\.android\build-cache\63eedc3f5cd51bdb13cecb8a007bbc56ad3350c5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ASUS\.android\build-cache\dc80e434225d574b614e8a3325903f3e0b2fc9b9\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:11:9-38
+	android:theme
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:15:9-40
+activity#pribadi.tugas.if314053.paladinsheroeswiki.SplashscreenActivity
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:theme
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:17:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:22:27-74
+activity#pribadi.tugas.if314053.paladinsheroeswiki.LoginActivity
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:25:9-28:59
+	android:label
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:27:13-59
+	android:theme
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:26:13-42
+activity#pribadi.tugas.if314053.paladinsheroeswiki.SignupActivity
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:29:9-32:59
+	android:label
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:31:13-57
+	android:theme
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:30:13-43
+activity#pribadi.tugas.if314053.paladinsheroeswiki.ResetPasswordActivity
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:33:9-36:59
+	android:label
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:35:13-66
+	android:theme
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:34:13-50
+activity#pribadi.tugas.if314053.paladinsheroeswiki.SettingActivity
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:37:9-40:59
+	android:label
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:39:13-66
+	android:theme
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:38:13-44
+activity#pribadi.tugas.if314053.paladinsheroeswiki.MainActivity
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:41:9-44:59
+	android:label
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:43:13-56
+	android:theme
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:42:13-41
+activity#pribadi.tugas.if314053.paladinsheroeswiki.ChampionsActivity
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:45:9-48:59
+	android:label
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:47:13-61
+	android:theme
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:46:13-46
+activity#pribadi.tugas.if314053.paladinsheroeswiki.ChampionsDetailActivity
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:49:9-52:59
+	android:label
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:51:13-68
+	android:theme
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:50:13-52
+activity#pribadi.tugas.if314053.paladinsheroeswiki.ModesActivity
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:53:9-56:59
+	android:label
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:55:13-57
+	android:theme
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:54:13-42
+activity#pribadi.tugas.if314053.paladinsheroeswiki.ModesDetailActivity
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:57:9-60:59
+	android:label
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:59:13-64
+	android:theme
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:60:13-56
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:58:13-48
+activity#pribadi.tugas.if314053.paladinsheroeswiki.PatchActivity
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:61:9-63:58
+	android:label
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:62:13-57
+	android:theme
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:61:19-48
+activity#pribadi.tugas.if314053.paladinsheroeswiki.PatchDetailActivity
+ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:64:9-66:58
+	android:label
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:65:13-64
+	android:theme
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:66:13-56
+	android:name
+		ADDED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml:64:19-54
+uses-sdk
+INJECTED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ASUS\.android\build-cache\8dac64637b0b9436c8f0152ed33165e529d0e0fe\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\ASUS\.android\build-cache\e5a276e2a8c7e10bb506af6124c237dc2ca00bf9\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ASUS\.android\build-cache\cd6b4e671f83ab34c2d0f888e2b2c3e7e8e539af\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ASUS\.android\build-cache\0b89888718969d6cec73fa8ec5779c1b6b0e8708\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ASUS\.android\build-cache\cbf195d9c56023759f461e07e1c98be6ba896955\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ASUS\.android\build-cache\cfcc61fb52f0325d39adad1487d574b516bde52f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ASUS\.android\build-cache\9eedc68b1339e1af772b890f79a7fd63cb31b913\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.android\build-cache\c200ef93479d532e18255b3c075232c93cf0eddc\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\ASUS\.android\build-cache\8cf8e3467033899f4427aa32e369d77d7ffe2b25\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\ASUS\.android\build-cache\c2e0c9d2807e8d086e7d614819417ea67748f862\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] C:\Users\ASUS\.android\build-cache\47d49fb97a5a0147d6f7b9a92e5d5139a73d9b75\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] C:\Users\ASUS\.android\build-cache\8be51b10f0de819d1c34f453e3cb188547ccc492\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] C:\Users\ASUS\.android\build-cache\d1c9b06e95a08d3983a8a9fa05f42d4e717c9df9\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ASUS\.android\build-cache\31abb0128f4abe977e7e440bc890dd36290e1ce0\output\AndroidManifest.xml:18:5-42
+MERGED from [io.realm:android-adapters:2.0.0] C:\Users\ASUS\.android\build-cache\e25a47e4b1e98ddf6768065b0bb977c76f3b3131\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-core:9.4.0] C:\Users\ASUS\.android\build-cache\f54008a9688513f68742aa07b1f0f15cc327e5c2\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\ASUS\.android\build-cache\8a418e79a13ee07dff6ba5844418318a967e219a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\ASUS\.android\build-cache\538908c218baec4efdf1ab915b62ac8adfe76036\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\ASUS\.android\build-cache\0ad2dd63afd7c3f8e62f1de26087b05f15bfcc44\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\ASUS\.android\build-cache\416567c775a37bc7292c6442a498f3d6c9a3ec86\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ASUS\.android\build-cache\c8c5ac4dd8d9ae616b7faef37a7c64af0da3dc4f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ASUS\.android\build-cache\51aef8e8dbb39e12f03c4ca797bd6ea1b17e1483\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ASUS\.android\build-cache\92cd61c4fe15d0f11d7b2b555a23965682d6abde\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ASUS\.android\build-cache\abfe97306b3cb581e8af45e6e6bcef022c66fcdd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ASUS\.android\build-cache\63eedc3f5cd51bdb13cecb8a007bbc56ad3350c5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ASUS\.android\build-cache\dc80e434225d574b614e8a3325903f3e0b2fc9b9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [io.realm:realm-android-library:3.0.0] C:\Users\ASUS\.android\build-cache\53ac06835006f80479cbab4457dd70853f772f33\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\ASUS\.android\build-cache\3cf983a05639cbc00ee705dd9fec84e9e6b2c564\output\AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ASUS\.android\build-cache\e5a276e2a8c7e10bb506af6124c237dc2ca00bf9\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Anjay Pam\Proyek_Pribadi_11314053_Mesmer\PaladinsHeroesWiki\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\ASUS\.android\build-cache\8dac64637b0b9436c8f0152ed33165e529d0e0fe\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\ASUS\.android\build-cache\e5a276e2a8c7e10bb506af6124c237dc2ca00bf9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ASUS\.android\build-cache\cd6b4e671f83ab34c2d0f888e2b2c3e7e8e539af\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ASUS\.android\build-cache\0b89888718969d6cec73fa8ec5779c1b6b0e8708\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ASUS\.android\build-cache\cbf195d9c56023759f461e07e1c98be6ba896955\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ASUS\.android\build-cache\cfcc61fb52f0325d39adad1487d574b516bde52f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ASUS\.android\build-cache\9eedc68b1339e1af772b890f79a7fd63cb31b913\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ASUS\.android\build-cache\c8c5ac4dd8d9ae616b7faef37a7c64af0da3dc4f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ASUS\.android\build-cache\51aef8e8dbb39e12f03c4ca797bd6ea1b17e1483\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ASUS\.android\build-cache\92cd61c4fe15d0f11d7b2b555a23965682d6abde\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ASUS\.android\build-cache\abfe97306b3cb581e8af45e6e6bcef022c66fcdd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ASUS\.android\build-cache\63eedc3f5cd51bdb13cecb8a007bbc56ad3350c5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ASUS\.android\build-cache\dc80e434225d574b614e8a3325903f3e0b2fc9b9\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\ASUS\.android\build-cache\8dac64637b0b9436c8f0152ed33165e529d0e0fe\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\ASUS\.android\build-cache\8dac64637b0b9436c8f0152ed33165e529d0e0fe\output\AndroidManifest.xml:23:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ASUS\.android\build-cache\31abb0128f4abe977e7e440bc890dd36290e1ce0\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ASUS\.android\build-cache\31abb0128f4abe977e7e440bc890dd36290e1ce0\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ASUS\.android\build-cache\31abb0128f4abe977e7e440bc890dd36290e1ce0\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ASUS\.android\build-cache\31abb0128f4abe977e7e440bc890dd36290e1ce0\output\AndroidManifest.xml:20:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\ASUS\.android\build-cache\8a418e79a13ee07dff6ba5844418318a967e219a\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\ASUS\.android\build-cache\8a418e79a13ee07dff6ba5844418318a967e219a\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\ASUS\.android\build-cache\8a418e79a13ee07dff6ba5844418318a967e219a\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\ASUS\.android\build-cache\fec9c946bacc9bb00ad3f077cde2420edeaa9292\output\AndroidManifest.xml:37:11-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\ASUS\.android\build-cache\ad1836c6d391e1d182334f9470bcc1a87e28d165\output\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\ASUS\.android\build-cache\538908c218baec4efdf1ab915b62ac8adfe76036\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\ASUS\.android\build-cache\538908c218baec4efdf1ab915b62ac8adfe76036\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\ASUS\.android\build-cache\538908c218baec4efdf1ab915b62ac8adfe76036\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\ASUS\.android\build-cache\538908c218baec4efdf1ab915b62ac8adfe76036\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\ASUS\.android\build-cache\538908c218baec4efdf1ab915b62ac8adfe76036\output\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\ASUS\.android\build-cache\416567c775a37bc7292c6442a498f3d6c9a3ec86\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\ASUS\.android\build-cache\416567c775a37bc7292c6442a498f3d6c9a3ec86\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\ASUS\.android\build-cache\416567c775a37bc7292c6442a498f3d6c9a3ec86\output\AndroidManifest.xml:22:13-58

@@ -1,0 +1,10 @@
+To install the application you need:
+1. Make sure you have XAMPP to enter "PaladinsHeroesWiki"
+2.Run the database that has been provided
+3. Make sure your emulator supports play store or play service
+4. If run with Hp, please change the IP on every RESTClient
+5. Enter the folder "paladinswiki" into the htdocs directory.
+
+To run the application you need:
+1. Have an internet network connection
+2. Register first

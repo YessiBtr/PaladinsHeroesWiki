@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">951158219952-hk0j4o44rbc0q1o1sj17f5b403u4lk9t.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://paladins-heroes-wiki.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">951158219952</string>
+    <string name="google_api_key" translatable="false">AIzaSyDjQFdvdeSvq24M8eDh-Rh6PuWsN0N3cPk</string>
+    <string name="google_app_id" translatable="false">1:951158219952:android:df9eb6b9dbb9494a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjQFdvdeSvq24M8eDh-Rh6PuWsN0N3cPk</string>
+    <string name="google_storage_bucket" translatable="false">paladins-heroes-wiki.appspot.com</string>
+</resources>

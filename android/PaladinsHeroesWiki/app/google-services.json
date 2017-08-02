@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "951158219952",
+    "firebase_url": "https://paladins-heroes-wiki.firebaseio.com",
+    "project_id": "paladins-heroes-wiki",
+    "storage_bucket": "paladins-heroes-wiki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951158219952:android:df9eb6b9dbb9494a",
+        "android_client_info": {
+          "package_name": "pribadi.tugas.if314053.paladinsheroeswiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951158219952-hk0j4o44rbc0q1o1sj17f5b403u4lk9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjQFdvdeSvq24M8eDh-Rh6PuWsN0N3cPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

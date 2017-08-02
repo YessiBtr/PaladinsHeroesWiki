@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="pribadi.tugas.if314053.paladinsheroeswiki.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <ImageView
+        android:id="@+id/champions_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:layout_marginBottom="1dp"
+        android:onClick="champions"
+        android:src="@drawable/champions" />
+
+    <ImageView
+        android:id="@+id/modes_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/champions_button"
+        android:layout_margin="@dimen/text_margin"
+        android:layout_marginBottom="1dp"
+        android:onClick="modes"
+        android:src="@drawable/gamemode" />
+
+    <ImageView
+        android:id="@+id/patch_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/modes_button"
+        android:layout_margin="@dimen/text_margin"
+        android:layout_marginBottom="1dp"
+        android:onClick="patch"
+        android:src="@drawable/patchnote" />
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_below="@id/patch_button"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:text="@string/large_text" />
+
+    </android.support.v4.widget.NestedScrollView>
+
+</RelativeLayout>
